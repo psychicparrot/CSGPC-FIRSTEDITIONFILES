@@ -1,5 +1,5 @@
 # CSGPC-FIRSTEDITIONFILES
-C# Game Programming Cookbook for Unity (First Edition) Example files. As these files are now almost 7 years old (as I write this) I won't be updating them any more. They are provided here for reference, but most likely won't be easily converted to run in the latest version of Unity due to the retirement of the old GUI system.
+C# Game Programming Cookbook for Unity (First Edition) Example files. As these files are now almost 7 years old (as I write this) I won't be updating them any more. They are provided here for reference, but most likely won't be easily converted to run in the latest version of Unity due to the retirement of the old GUI system. They were last tested in Unity 2019.2 though it looks like the GUI system was retired in a later version of Unity 2019 so that may be the last version of Unity they'll open with.
 
 These files are to accompany the book:
 https://www.routledge.com/C-Game-Programming-Cookbook-for-Unity-3D/Murray/p/book/9781466581401
